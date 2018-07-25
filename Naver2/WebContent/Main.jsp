@@ -82,7 +82,7 @@
 <body>
 
 	<%@ include file="mainTop_bar.jsp"%> 
-	<%-- <%@ include file="\loginButton.jspf"%> 스ㅡ크립트 안에 jsp 코드를 왜 넣었냐 --%>
+	<%-- <%@ include file="\loginButton.jspf"%> ì¤ã¡í¬ë¦½í¸ ìì jsp ì½ëë¥¼ ì ë£ìë --%>
 		
 			
 	<div style="padding-left: 16px">
@@ -90,7 +90,7 @@
 			<img src="https://s-ec.bstatic.com/images/hotel/max1024x768/109/109762852.jpg" alt="Notebook" style="width: 100%;">
 			<div class="content">
 				<h1>Memory</h1>
-				<p>I Wanna back the moment ㅠㅠ</p>
+				<p>I Wanna back the moment 한글이 깨지자너ㅜㅜ </p>
 			</div>
 		</div>
 	</div>
