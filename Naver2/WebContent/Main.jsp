@@ -90,7 +90,7 @@
 			<img src="https://s-ec.bstatic.com/images/hotel/max1024x768/109/109762852.jpg" alt="Notebook" style="width: 100%;">
 			<div class="content">
 				<h1>Memory</h1>
-				<p>I Wanna back the moment</p>
+				<p>I Wanna back the moment ㅠㅠ</p>
 			</div>
 		</div>
 	</div>
